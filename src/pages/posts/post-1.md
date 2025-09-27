@@ -7,7 +7,7 @@ author: "George Crăciun-Vasilache"
 image:
   url: "https://docs.astro.build/assets/rose.webp"
   alt: "The Astro logo on a dark background with a pink glow."
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro", "blogging", "learning in public", "brand_new_tag"]
 ---
 
 Welcome to my _new blog_ about my journey into becoming a better developer by studying the DDIA book.
